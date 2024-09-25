@@ -29,7 +29,7 @@ detector = HandDetector(maxHands=2)
 offset = 20
 imgSize = 300
 
-folder = "Data/kssssssa"
+folder = "Data/ca"
 counter = 0
 
 while True:
