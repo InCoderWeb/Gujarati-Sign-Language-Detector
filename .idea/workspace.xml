@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c7e55893-8015-4040-b8e6-c1504d350cbe" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataCollection.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +56,7 @@
       <recent name="C:\Users\DELL\PycharmProjects\gujaratiSignDetect" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dataCollection">
+  <component name="RunManager" selected="Python.test">
     <configuration name="dataCollection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="gujaratiSignDetect" />
       <option name="ENV_FILES" value="" />
@@ -106,8 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dataCollection" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.dataCollection" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +128,7 @@
       <updated>1727178828361</updated>
       <workItem from="1727178830419" duration="102000" />
       <workItem from="1727178958060" duration="16813000" />
-      <workItem from="1727232198004" duration="4260000" />
+      <workItem from="1727232198004" duration="11727000" />
     </task>
     <servers />
   </component>
@@ -137,7 +136,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/gujaratiSignDetect$test.coverage" NAME="test Coverage Results" MODIFIED="1727236383481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/gujaratiSignDetect$dataCollection.coverage" NAME="dataCollection Coverage Results" MODIFIED="1727236784511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gujaratiSignDetect$test.coverage" NAME="test Coverage Results" MODIFIED="1727259043934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gujaratiSignDetect$dataCollection.coverage" NAME="dataCollection Coverage Results" MODIFIED="1727237510305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
