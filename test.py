@@ -222,7 +222,7 @@ character_images = {
 }
 
 
-def overlay_image(background, overlay, position, scale=0.5):
+def overlay_image(background, overlay, position, scale=0.2):
     x, y = position
 
     # Apply the scaling factor to resize the overlay
